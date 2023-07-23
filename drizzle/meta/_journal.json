@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1689959190169,
+      "tag": "0000_lying_fixer",
+      "breakpoints": true
+    }
+  ]
+}
